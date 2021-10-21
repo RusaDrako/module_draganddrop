@@ -1,0 +1,29 @@
+[module_dragndrop__box] {
+	min-height: 75px;
+	padding: 5px;
+	background: #eee;
+	border-radius: 5px;
+	border: 1px solid #ccc;/**/
+	box-sizing: border-box;
+}
+
+.module_dragndrop__drop_catches {
+	background: #ccc;
+	border: 1px solid #88f;
+}
+
+[module_dragndrop__card] {
+	background: #fff;
+	border: 1px solid #ccc;
+	margin: 4px 0;
+}
+
+.module_dragndrop__drag_move {
+	border: 1px solid #88f;
+}
+
+.module_dragndrop__drag_helper {
+	max-width: 400px;
+	border: 1px solid #88f;
+	z-index: 1000000;
+}

@@ -1,0 +1,47 @@
+.block {
+	position: relative;
+	display: block;
+}
+
+.block_1 {
+	width: 450px;
+}
+
+.block_2 {
+	width: 300px;
+}
+
+.card {
+	width: 100%;
+	padding: 5px;
+	box-sizing: border-box;
+}
+
+[module_dragndrop__box=user] .card {
+	min-height: 30px;
+}
+
+.card img {
+	height: 35px;
+	margin-right: 10px;
+}
+
+[module_dragndrop__box=user]::before {
+	content: "Пользователи:";
+}
+
+[module_dragndrop__box=user].аssociated::before {
+	content: "Связанные пользователи:";
+}
+
+[module_dragndrop__box=task] {
+	background: #fda;
+}
+
+[module_dragndrop__box=task]::before {
+	content: "Задачи:";
+}
+
+[module_dragndrop__box=task].ready::before {
+	content: "Выполненые задачи:";
+}
