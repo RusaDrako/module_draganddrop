@@ -6,14 +6,14 @@
 
 
 /**
- *	@version 0.0.3
+ *	@version 1.0.0
  *	@author Leonid Petukhov
  */
 (function($) {
 	/** Имя модуля */
 	var MODULE_NAME          = 'module_dragndrop';
 	/** Версия модуля */
-	var MODULE_VERSION       = '0.0.1';
+	var MODULE_VERSION       = '1.0.0';
 	/** Автор модуля */
 	var MODULE_AUTHOR        = 'Петухов Леонид';
 	/** Дата релиза модуля */
