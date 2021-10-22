@@ -4,6 +4,8 @@ ____
 ![license](https://img.shields.io/github/license/RusaDrako/module_dragndrop?style=plastic)
 ![release](https://img.shields.io/github/v/release/RusaDrako/module_dragndrop?style=plastic)
 
+
+
 ## Оглавление
 
 - [Подключение](#Подключение)
@@ -47,6 +49,7 @@ module_dragndrop.start()
 [:arrow_up: Оглавление](#Оглавление)
 
 
+
 ## Блок Drag
 
 Для формирования перетаскиваемого элемента, в теге необходимо указать атрибут **module_form__card**.
@@ -56,5 +59,7 @@ module_dragndrop.start()
 ```
 
 [:arrow_up: Оглавление](#Оглавление)
+
+
 
 [![Logo](https://avatars0.githubusercontent.com/u/32844979?s=50 "RusaDrako")](https://github.com/RusaDrako/)

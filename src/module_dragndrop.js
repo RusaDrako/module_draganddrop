@@ -5,10 +5,7 @@
 
 
 
-/**
- *	@version 1.0.0
- *	@author Leonid Petukhov
- */
+/** */
 (function($) {
 	/** Имя модуля */
 	var MODULE_NAME          = 'module_dragndrop';
